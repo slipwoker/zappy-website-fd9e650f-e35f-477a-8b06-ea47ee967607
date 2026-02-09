@@ -1,0 +1,57 @@
+# אלירן שערים חשמליים — Generative Engine Optimization Map
+
+> A שירותי בית וחצר business.
+
+---
+
+## Pages
+
+### Home
+https://-fd9e650f.zappy5.app
+
+### Services
+https://-fd9e650f.zappy5.app/services
+
+### Projects
+https://-fd9e650f.zappy5.app/projects
+
+### Contact
+https://-fd9e650f.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fd9e650f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fd9e650f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fd9e650f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אלירן שערים חשמליים
+אלירן שערים חשמליים is a business in the שירותי בית וחצר industry.
+
+## Target Audience
+- בעלי בתים עם שערים חשמליים
+- מנהלי נכסים
+- חברות בנייה
+- עסקים עם דגש על אבטחה
+- מגורי יוקרה
+
+## Industry
+שירותי בית וחצר
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-fd9e650f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-fd9e650f.zappy5.app/robots.txt
